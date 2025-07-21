@@ -1,0 +1,32 @@
+{
+  "name": "namastereact",
+  "version": "1.0.0",
+  "description": "\"Recct Project by Arjun Raavi\"",
+  "keywords": [],
+  "homepage": "https://github.com/Mallikarjuna-reddy-ravi/NamasteReact#readme",
+  "bugs": {
+    "url": "https://github.com/Mallikarjuna-reddy-ravi/NamasteReact/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mallikarjuna-reddy-ravi/NamasteReact.git"
+  },
+  "license": "ISC",
+  "author": "Mallikarjuna Reddy",
+  "type": "commonjs",
+  "scripts": {
+    "test": "check",
+    "start":"parcel index.html",
+    "build":"parcel build index.html"
+  },
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "browserslist": [
+    "last 3 versions"
+  ]
+}
